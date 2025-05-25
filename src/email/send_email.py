@@ -7,8 +7,8 @@ def send_email(recipient, message):
         # SMTP Gmail Configuration
         smtp_server = "smtp.gmail.com"
         port = 587
-        sender = 'akbarrozaq691@gmail.com'
-        password = 'qzzh dgku pirn pbes'
+        sender = 'xxxx'
+        password = 'xxxx'
         
         # MIME Object Creation
         email = MIMEMultipart()
